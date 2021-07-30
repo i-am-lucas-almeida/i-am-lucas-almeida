@@ -15,7 +15,7 @@
   <img align="center" alt="Lucas-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Android" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="right" alt="Lucas-gif" src="">
+  <img align="right" alt="Lucas-gif" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
 </div>
   
 ##
