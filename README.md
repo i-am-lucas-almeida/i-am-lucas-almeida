@@ -1,13 +1,14 @@
-## Olá👋 Eu sou o Lucas, tenho 22 anos e sou estudante de desenvolvimento web 🤓💻
+## Hello World👋🌍 Eu sou o Lucas, tenho 22 anos e sou estudante de desenvolvimento web👨‍💻
 
 - 🤹 Skills: Html, Css e App Inventor;
 - 🌱 Atualmente estou estudando JavaScript;
 - 🤩 Gosto de: doguinhos, anime, prog metal e silêncio;
+- 📫 Entre em contato: contatolucasalmeida2@gmail.com
 
 <div>
   <a href="https://github.com/i-am-lucas-almeida">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=i-am-lucas-almeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-lucas-almeida&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-am-lucas-almeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-lucas-almeida&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
