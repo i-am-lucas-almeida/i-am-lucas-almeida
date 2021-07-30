@@ -1,7 +1,8 @@
 ## Hello World👋🌍 Eu sou o Lucas, tenho 22 anos e sou estudante de desenvolvimento web👨‍💻
 
 - 🤹 Skills: Html, Css e App Inventor;
-- 🌱 Atualmente estou estudando JavaScript;
+- 🎒 Tools: Visual Studio Code e GitHub;
+- 🌱 Atualmente estudando JavaScript;
 - 🤩 Gosto de: doguinhos, anime, prog metal e silêncio;
 - 📫 Entre em contato: contatolucasalmeida2@gmail.com
 
