@@ -1,10 +1,10 @@
-## Hello World👋🌍 Eu sou o Lucas, tenho 22 anos e sou estudante de desenvolvimento web👨‍💻
+### Hello World👋🌍 I'm Lucas. Web development student👨‍💻
 
-- 🤹 Skills: Html, Css e App Inventor;
-- 🎒 Tools: Visual Studio Code e GitHub;
-- 🌱 Atualmente estudando JavaScript;
-- 🤩 Gosto de: doguinhos, anime, prog metal e silêncio;
-- 📫 Entre em contato: contatolucasalmeida2@gmail.com
+- 🤹 Skills: Html, Css and App Inventor;
+- 🎒 Tools: Visual Studio Code and GitHub;
+- 🌱 Learning: JavaScript;
+- 🤩 Like: dogs, anime, prog metal and silence;
+- 📫 Talk to me: contatolucasalmeida2@gmail.com
 
 <div>
   <a href="https://github.com/i-am-lucas-almeida">
@@ -17,6 +17,8 @@
   <img align="center" alt="Lucas-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Android" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" alt="Lucas-VsCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Lucas-Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="Lucas-gif" height="150" width="200" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
 </div>
   
