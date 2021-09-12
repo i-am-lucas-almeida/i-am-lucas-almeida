@@ -2,7 +2,7 @@
 
 - 🤹 Skills: Html and Css;
 - 🎒 Tools: Visual Studio Code and GitHub;
-- 🌱 Student in [Recode Pro] (https://www.recodepro.org.br/);
+- 🌱 Student in [Recode Pro](https://www.recodepro.org.br/);
 - 🤩 Like: dogs, anime, prog metal and silence;
 - 📫 Talk to me: contatolucasalmeida2@gmail.com
 
