@@ -1,8 +1,8 @@
 ### Hello World👋🌍 I'm Lucas. Web development student👨‍💻
 
-- 🤹 Skills: Html, Css and App Inventor;
+- 🤹 Skills: Html and Css;
 - 🎒 Tools: Visual Studio Code and GitHub;
-- 🌱 Learning: JavaScript;
+- 🌱 Student in [Recode Pro] (https://www.recodepro.org.br/);
 - 🤩 Like: dogs, anime, prog metal and silence;
 - 📫 Talk to me: contatolucasalmeida2@gmail.com
 
@@ -16,7 +16,6 @@
   <img align="center" alt="Lucas-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Android" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Lucas-VsCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Lucas-Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="Lucas-gif" height="150" width="200" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
