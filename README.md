@@ -1,25 +1,28 @@
 ### Hello World👋🌍 I'm Lucas. Web development student👨‍💻
 
-- 🤹 Skills: Html and Css;
+- 🤹 Skills: Html, Css and Java;
 - 🎒 Tools: Visual Studio Code and GitHub;
 - 🌱 Student in [Recode Pro](https://www.recodepro.org.br/);
-- 🤩 Like: dogs, anime, prog metal and silence;
+- 🤩 Like: dogs, movies, prog metal and silence;
 - 📫 Talk to me: contatolucasalmeida2@gmail.com
 
 <div>
   <a href="https://github.com/i-am-lucas-almeida">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=i-am-lucas-almeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-lucas-almeida&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-lucas-almeida&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Lucas-Java" height="70" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Lucas-Java" height="70" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Lucas-VsCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Lucas-Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Lucas-gif" height="80" width="100" src="https://media.giphy.com/media/hRLz2uLh5AX1zPsjOS/giphy.gif">
   <img align="right" alt="Lucas-gif" height="150" width="200" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
+  
+
+  
 </div>
   
 ##
