@@ -19,10 +19,7 @@
   <img align="center" alt="Lucas-VsCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Lucas-Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Lucas-gif" height="80" width="100" src="https://media.giphy.com/media/hRLz2uLh5AX1zPsjOS/giphy.gif">
-  <img align="right" alt="Lucas-gif" height="150" width="200" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
-  
-
-  
+  <img align="right" alt="Lucas-gif" height="180" width="180" src="https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif">
 </div>
   
 ##
