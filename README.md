@@ -1,6 +1,6 @@
 ### Hello World👋🌍 I'm Lucas. Web development student👨‍💻
 
-- 🤹 Skills: Html, Css and Java;
+- 🤹 Skills: Html, Css, JavaScript  and Java;
 - 🎒 Tools: Visual Studio Code and GitHub;
 - 🌱 Student in [Recode Pro](https://www.recodepro.org.br/);
 - 🤩 Like: dogs, movies, prog metal and silence;
