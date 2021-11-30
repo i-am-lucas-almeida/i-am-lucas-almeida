@@ -4,6 +4,7 @@
 - 🎒 Tools: Visual Studio Code and GitHub;
 - 🌱 Student in [Recode Pro](https://www.recodepro.org.br/);
 - 🤩 Like: dogs, movies, prog metal and silence;
+- 🔗 My projects: https://my-portfolio-landing-page.netlify.app/ 
 - 📫 Talk to me: contatolucasalmeida2@gmail.com
 
 <div>
