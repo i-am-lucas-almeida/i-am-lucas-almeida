@@ -1,6 +1,6 @@
 ### Hello World👋🌍 I'm Lucas. Web development student👨‍💻
 
-- 🤹 Skills: Html, Css, JavaScript  and Java;
+- 🤹 Skills: Html, Css, Bootstrap and JavaScript;
 - 🎒 Tools: Visual Studio Code and GitHub;
 - 🌱 Student in [Recode Pro](https://www.recodepro.org.br/);
 - 🤩 Like: dogs, movies, prog metal and silence;
@@ -16,7 +16,6 @@
   <img align="center" alt="Lucas-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Java" height="70" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Lucas-VsCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Lucas-Github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Lucas-gif" height="80" width="100" src="https://media.giphy.com/media/hRLz2uLh5AX1zPsjOS/giphy.gif">
