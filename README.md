@@ -27,7 +27,7 @@
 <div> 
   <a href = "mailto:contatolucasalmeida2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://t.me/lucas_almeida_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href = "#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "https://open.spotify.com/playlist/01UnemMhALKmJguEKBIE9r?si=abaa88ab3c7446fc" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   
   ![Snake animation](https://github.com/i-am-lucas-almeida/i-am-lucas-almeida/blob/output/github-contribution-grid-snake.svg)
