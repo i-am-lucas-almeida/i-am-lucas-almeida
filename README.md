@@ -1,11 +1,11 @@
-## Hello World👋🌍 I'm Lucas. Web development student👨‍💻
+## Olá mundo👋🌍 Eu sou o Lucas, estudante de desenvolvimento web👨‍💻
 
-- 🤹 Skills: Html, Css, Bootstrap and JavaScript;
-- 🎒 Tools: Visual Studio Code and Git;
-- 🌱 Learning React;
-- 🤩 Like: dogs, movies, prog metal and silence;
-- 🔗 Look <a href="https://lucas-portfolio-landing-page.netlify.app/" target="_blank">my portfolio</a>
-- 📫 Talk to me: contatolucasalmeida2@gmail.com
+- 🤹 Habilidades: Html, Css, Bootstrap e JavaScript;
+- 🛠 Ferramentas: Visual Studio Code e Git;
+- 🌱 Aprendendo React;
+- 🤩 Gosto de: animais, cinema, prog metal e silêncio;
+- 🔗 Veja meu <a href="https://lucas-portfolio-landing-page.netlify.app/" target="_blank">portfólio</a>
+- 📫 Fale comigo: contatolucasalmeida2@gmail.com
 
 <div>
   
@@ -33,8 +33,8 @@
 ##
 
 <div> 
+  
   <a href = "mailto:contatolucasalmeida2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://t.me/lucas_almeida_developer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
   ![Snake animation](https://github.com/i-am-lucas-almeida/i-am-lucas-almeida/blob/output/github-contribution-grid-snake.svg)
