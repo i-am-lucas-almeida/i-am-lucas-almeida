@@ -4,7 +4,7 @@
 - 🛠 Ferramentas: Visual Studio Code e Git;
 - 🌱 Aprendendo React;
 - 🤩 Gosto de: animais, cinema, prog metal e silêncio;
-- 🔗 Veja meu <a href="https://lucas-portfolio-landing-page.netlify.app/" target="_blank">portfólio</a>
+- 🔗 Confira meu <a href="https://lucasalmeidadev.netlify.app/">portfólio</a>
 - 📫 Fale comigo: contatolucasalmeida2@gmail.com
 
 <div>
