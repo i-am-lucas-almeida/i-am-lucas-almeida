@@ -5,7 +5,7 @@
 - 🌱 Aprendendo React;
 - 🤩 Gosto de: animais, cinema, prog metal e silêncio;
 - 🔗 Confira meu <a href="https://lucasalmeidadev.netlify.app/">portfólio</a>
-- 🔗 Confira meu <a href="https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/">LinkedIn</a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" width="20" /> Confira meu <a href="https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/">LinkedIn</a>
 - 📫 Fale comigo: contatolucasalmeida2@gmail.com
 
 <div>
