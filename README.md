@@ -2,7 +2,7 @@
 
 - 🤹 Habilidades: Html, Css, Bootstrap e JavaScript;
 - 🛠 Ferramentas: Visual Studio Code e Git;
-- 🌱 Aprendendo React;
+- 🌱 Atualmente aprendendo React;
 - 🤩 Gosto de: animais, cinema, prog metal e silêncio;
 - 🔗 <a href="https://lucasalmeidadev.netlify.app/" target="_blank" rel="noopener noreferrer">Confira meu portfólio</a>
 - 📫 Fale comigo: contatolucasalmeida2@gmail.com
@@ -25,14 +25,14 @@
   <img alt="JavaScript" title="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="React" title="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="npm" title="npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img alt="VsCode" title="VsCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="VsCode" title="Vs Code" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img alt="Git" title="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
   <!--<img align="right" alt="Lucas-gif" height="180" width="180" src="https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif">-->
   
 </div>
   
-## Fale comigo
+## Entre em contato
 
 <a href="contatolucasalmeida2@gmail.com" title="Me mande um oi!">
    <img alt="Email" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="50">
