@@ -39,9 +39,9 @@
 <a href="contatolucasalmeida2@gmail.com" title="Me mande um oi!">
    <img alt="Email" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="50">
 </a>
-
-<a href="https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/" target="_blank" rel="noopener noreferrer" alt="LinkedIn">   
-   <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45">
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/">   
+   <img alt="LinkedIn" src="https://api.iconify.design/logos:linkedin.svg" width="150">
 </a>
 
 <!--<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">-->
