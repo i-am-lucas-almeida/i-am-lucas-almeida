@@ -7,6 +7,8 @@
 - 🔗 <a href="https://lucasalmeidadev.netlify.app/" target="_blank" rel="noopener noreferrer">Confira meu portfólio</a>
 - 📫 Fale comigo: contatolucasalmeida2@gmail.com
 
+<!--
+  
 <div>
   
   <a href="https://github.com/i-am-lucas-almeida">
@@ -14,6 +16,8 @@
   </a>
    
 </div>
+
+-->
 
 ## Skills
   
