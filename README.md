@@ -1,11 +1,11 @@
 ## Olá mundo👋🌍 Eu sou o Lucas, desenvolvedor web👨‍💻
 
-- 🤹 Habilidades: Html, Css, Bootstrap e JavaScript;
+- 🤹 Skills: Html, Css, Sass, Bootstrap, JavaScript e React Js;
 - 🛠 Ferramentas: Visual Studio Code e Git;
-- 🌱 Atualmente aprendendo React;
+- 🌱 Atualmente aprendendo TypeScript;
 - 🤩 Gosto de: animais, cinema, prog metal e silêncio;
-- 🔗 <a href="https://lucasalmeidadev.netlify.app/" target="_blank" rel="noopener noreferrer">Confira meu portfólio</a>
-- 📫 Fale comigo: contatolucasalmeida2@gmail.com
+- 🔗 <a href="https://lucasalmeidadev.netlify.app/" target="_blank" rel="noopener noreferrer">Confira meu Portfólio</a>
+- 📫 Me mande um e-mail: contatolucasalmeida2@gmail.com
 
 <!--
   
