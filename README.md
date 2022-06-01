@@ -1,13 +1,28 @@
 <h2>👋 Olá pessoas! Eu sou o Lucas, desenvolvedor front-end👨‍💻</h2>
 
-<p>🤹 <b>Skills:</b> HTML5, CSS3, SCSS, Bootstrap, JavaScript e ReactJs.</p>
-<p>🛠 <b>Ferramentas:</b> Visual Studio Code e Git.</p>
-<p>📚 <b>Aprendendo:</b> TypeScript.</p>
-<p>🤩 <b>Gosto de:</b> animais, cinema, prog metal e silêncio.</p>
-<p>🔗 <b>Visite meu portfólio:</b> <a href="https://lucasalmeidadev.netlify.app/">https://lucasalmeidadev.com</a></p>
-<p>📭 <b>Fale comigo:</b></p>
+<ul>
+  <li>
+    <p>🤹 <b>Skills:</b> HTML5, CSS3, SCSS, Bootstrap, JavaScript e ReactJs.</p>
+  </li>
+  <li>
+    <p>🛠 <b>Ferramentas:</b> Visual Studio Code e Git.</p>
+</li>
+<li>
+    <p>📚 <b>Aprendendo:</b> TypeScript.</p>
+</li>
+<li>
+    <p>🤩 <b>Gosto de:</b> animais, cinema, prog metal e silêncio.</p>
+</li>
+<li>
+    <p>🔗 <b>Visite meu portfólio:</b> <a href="https://lucasalmeidadev.netlify.app/">https://lucasalmeidadev.com</a></p>
+</li>
+<li>
+    <p>📭 <b>Fale comigo:</b></p>
+</li>
 
-<div style='display: flex'>
+</ul>
+
+<div style='display: flex;'>
 
   <a href="https://mail.google.com/mail/u/?authuser=contatolucasalmeida2@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
