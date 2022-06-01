@@ -43,7 +43,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-lucas-almeida&layout=compact&langs_count=7&&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=21262d&border_radius=15"/>
   </a>
   
-  <img align="right" alt="Lucas-gif" height="180" width="180" src="https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif">
+  <!--<img align="right" alt="Lucas-gif" height="180" width="180" src="https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif">-->
    
 </div>
 
