@@ -1,25 +1,40 @@
-## Olá mundo👋🌍 Eu sou o Lucas, desenvolvedor web👨‍💻
+<h2>👋 Olá pessoas! Eu sou o Lucas, desenvolvedor front-end👨‍💻</h2>
 
-- 🤹 Skills: Html, Css, Sass, Bootstrap, JavaScript e React Js;
-- 🛠 Ferramentas: Visual Studio Code e Git;
-- 🌱 Atualmente aprendendo TypeScript;
-- 🤩 Gosto de: animais, cinema, prog metal e silêncio;
-- 🔗 <a href="https://lucasalmeidadev.netlify.app/" target="_blank" rel="noopener noreferrer">Confira meu Portfólio</a>
-- 📫 Me mande um e-mail: contatolucasalmeida2@gmail.com
+<p>🤹 <b>Skills:</b> HTML5, CSS3, SCSS, Bootstrap, JavaScript e ReactJs.</p>
+<p>🛠 <b>Ferramentas:</b> Visual Studio Code e Git.</p>
+<p>📚 <b>Aprendendo:</b> TypeScript.</p>
+<p>🤩 <b>Gosto de:</b> animais, cinema, prog metal e silêncio.</p>
+<p>🔗 <b>Visite meu portfólio:</b> <a href="https://lucasalmeidadev.netlify.app/">https://lucasalmeidadev.com</a></p>
+<p>📭 <b>Fale comigo:</b></p>
 
-<!--
+<div style='display: flex'>
+
+  <a href="https://mail.google.com/mail/u/?authuser=contatolucasalmeida2@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/" alt="Linkedin">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+
+</div>
+
+</br>
+</br>
   
 <div>
   
   <a href="https://github.com/i-am-lucas-almeida">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-lucas-almeida&layout=compact&langs_count=7&&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=21262d&border_radius=15"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-lucas-almeida&layout=compact&langs_count=7&&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=21262d&border_radius=15"/>
   </a>
+  
+  <img align="right" alt="Lucas-gif" height="180" width="180" src="https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif">
    
 </div>
 
--->
+</br>
 
-## Skills
+<h2>⚡ Hard Skills</h2>
   
 <div style="display: block">
   
@@ -34,22 +49,7 @@
   <img alt="VsCode" title="Vs Code" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> &nbsp;
   <img alt="Git" title="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;
   
-  <!--<img align="right" alt="Lucas-gif" height="180" width="180" src="https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif">-->
-  
 </div>
-  
-## Entre em contato
-
-<a href="contatolucasalmeida2@gmail.com" title="Me mande um oi!">
-   <img alt="Email" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="50">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/">   
-   <img alt="LinkedIn" src="https://api.iconify.design/logos:linkedin.svg" width="150">
-</a>
-
-<!--<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">-->
 
 ![Snake animation](https://github.com/i-am-lucas-almeida/i-am-lucas-almeida/blob/output/github-contribution-grid-snake.svg)
-  
 
