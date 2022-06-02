@@ -11,10 +11,9 @@
     <p>📚 <b>Aprendendo:</b> TypeScript.</p>
 </li>
 <li>
-    <p>🤩 <b>Gosto de:</b> animais, cinema, prog metal e silêncio.</p>
-</li>
-<li>
-    🔗 <a href="https://lucasalmeidadev.netlify.app/"><b>Visite meu portfólio<img src="https://api.iconify.design/ri:external-link-line.svg?color=%23888888" /></b></a>
+    🔗 <a href="https://lucasalmeidadev.netlify.app/">
+            <b>Visite meu portfólio<img src="https://api.iconify.design/ri:external-link-line.svg?color=%23888888" /></b>
+        </a>
 </li>
 
 </ul>
@@ -25,7 +24,7 @@
 <div>
   
   <a href="https://github.com/i-am-lucas-almeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-lucas-almeida&layout=compact&langs_count=7&&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=21262d&border_radius=15"/>
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-lucas-almeida&layout=compact&langs_count=7&&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=21262d&border_radius=15"/>
   </a>
   
   <!--<img align="right" alt="Lucas-gif" height="180" width="180" src="https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif">-->
@@ -58,12 +57,12 @@
   <div style='display: flex;'>
 
   <a href="https://mail.google.com/mail/u/?authuser=contatolucasalmeida2@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/" alt="Linkedin">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
+  <a href="https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
 </div>
 
