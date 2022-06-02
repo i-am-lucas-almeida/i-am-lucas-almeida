@@ -14,25 +14,10 @@
     <p>🤩 <b>Gosto de:</b> animais, cinema, prog metal e silêncio.</p>
 </li>
 <li>
-    <p>🔗 <b>Visite meu portfólio:</b> <a href="https://lucasalmeidadev.netlify.app/">https://lucasalmeidadev.com</a></p>
-</li>
-<li>
-    <p>📭 <b>Fale comigo:</b></p>
+    🔗 <a href="https://lucasalmeidadev.netlify.app/"><b>Visite meu portfólio<img src="https://api.iconify.design/ri:external-link-line.svg?color=%23888888" /></b></a>
 </li>
 
 </ul>
-
-<div style='display: flex;'>
-
-  <a href="https://mail.google.com/mail/u/?authuser=contatolucasalmeida2@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/" alt="Linkedin">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-
-</div>
 
 </br>
 </br>
@@ -65,6 +50,24 @@
   <img alt="Git" title="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;
   
 </div>
+
+</br>
+
+<h2>📭 Fale Comigo</h2>
+  
+  <div style='display: flex;'>
+
+  <a href="https://mail.google.com/mail/u/?authuser=contatolucasalmeida2@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lucas-almeida-galv%C3%A3o-920064185/" alt="Linkedin">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+
+</div>
+
+</br>
 
 ![Snake animation](https://github.com/i-am-lucas-almeida/i-am-lucas-almeida/blob/output/github-contribution-grid-snake.svg)
 
