@@ -8,7 +8,7 @@
     <p>🛠 <b>Ferramentas:</b> Visual Studio Code e Git.</p>
 </li>
 <li>
-    <p>📚 <b>Aprendendo:</b> Next.Js e TypeScript.</p>
+    <p>📚 <b>Aprendendo:</b> TypeScript.</p>
 </li>
 <li>
     🔗 <a href="https://lucasalmeidadev.netlify.app/">
