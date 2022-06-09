@@ -11,7 +11,7 @@
     <p>📚 <b>Aprendendo:</b> TypeScript.</p>
 </li>
 <li>
-    🔗 <a href="https://lucasalmeidadev.netlify.app/">
+    🔗 <a href="https://lucasalmeida.vercel.app/">
             <b>Visite meu portfólio<img src="https://api.iconify.design/ri:external-link-line.svg?color=%23888888" /></b>
         </a>
 </li>
