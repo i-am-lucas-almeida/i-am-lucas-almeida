@@ -1,4 +1,4 @@
-<h2>👋 Olá pessoas! Eu sou o Lucas, desenvolvedor front-end👨‍💻</h2>
+<h2>👋 Oi! Eu sou o Lucas, desenvolvedor front-end👨‍💻</h2>
 
 <ul>
   <li>
@@ -35,18 +35,20 @@
 
 <h2>⚡ Hard Skills</h2>
   
-<div style="display: block">
+<div style="display: flex">
   
-  <img alt="HTML" title="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
-  <img alt="CSS" title="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-  <img alt="Sass" title="Sass" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> &nbsp;
-  <img alt="Bootstrap" title="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> &nbsp;
-  <img alt="JavaScript" title="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
-  <img alt="React" title="React Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
-  <img alt="Axios" title="Axios" height="50" width="100" src="https://api.iconify.design/logos:axios.svg"> &nbsp;
-  <img alt="npm" title="npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> &nbsp;
-  <img alt="VsCode" title="Vs Code" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> &nbsp;
-  <img alt="Git" title="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;
+  <img alt="HTML" title="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
+  <img alt="CSS" title="CSS"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
+  <img alt="Sass" title="Sass"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp;
+  <img alt="Bootstrap" title="Bootstrap"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">&nbsp;
+  <img alt="JavaScript" title="JavaScript"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
+  <img alt="TypeScript" title="TypeScript"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;
+  <img alt="React" title="React Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
+  <img alt="Yarn" title="Yarn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">&nbsp;
+  <img alt="npm" title="npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">&nbsp;
+  <img alt="Axios" title="Axios" height="40" width="80" src="https://api.iconify.design/logos:axios.svg">&nbsp;
+  <img alt="VsCode" title="Vs Code"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;
+  <img alt="Git" title="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
   
 </div>
 
