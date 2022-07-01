@@ -4,9 +4,6 @@
   <li>
     <p>🤹 <b>Skills:</b> HTML5, CSS3, SCSS, Bootstrap, JavaScript e ReactJs.</p>
   </li>
-  <li>
-    <p>🛠 <b>Ferramentas:</b> Visual Studio Code e Git.</p>
-</li>
 <li>
     <p>📚 <b>Aprendendo:</b> TypeScript.</p>
 </li>
